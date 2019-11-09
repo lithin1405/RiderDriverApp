@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sawak</string>
+    <string name="check_connection">Please check your connection</string>
+    <string name="progress_pleaseWait">Please wait...</string>
+</resources>
